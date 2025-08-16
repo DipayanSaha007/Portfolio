@@ -38,6 +38,12 @@ const Hero = () => {
               >
                 Get In Touch
               </Button>
+              <Button
+                className="border-white/30 text-white hover:bg-white/10"
+                onClick={() => window.open("https://drive.google.com/your-resume-link", "_blank")}
+              >
+                View Resume
+              </Button>
             </div>
             
             {/* Social Links */}

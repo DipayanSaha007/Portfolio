@@ -40,7 +40,7 @@ const Hero = () => {
               </Button>
               <Button
                 className="border-white/30 text-white hover:bg-white/10"
-                onClick={() => window.open("https://drive.google.com/your-resume-link", "_blank")}
+                onClick={() => window.open("https://drive.google.com/file/d/1YCrSiRTIXSJtBnZNltsteYJHHyVsxlHe/view?usp=sharing", "_blank")}
               >
                 View Resume
               </Button>
